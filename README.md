@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddhantpriyadarshi18581
 - 👀 I’m interested in ... coding, digital marketing and graphic designing
 - 🌱 I’m currently learning ... C, Python, Git-repositories, Digital-Marketing Course by Google
-- 💞️ I’m looking to collaborate on ... Python Projects or C projects
+- 💞️ I’m looking to collaborate on ... Python Projects, HTML CSS Projects or C projects
 - 📫 How to reach me ... @siddhantpriyadarshi18581 my Instagram Id; siddhantpriyadarshi18581@gmail.com Main Gmail Acc.; siddhantcoding25@gmail.com Temporary Gmail Acc.
 
 <!---
